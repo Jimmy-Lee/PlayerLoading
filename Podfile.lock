@@ -1,0 +1,26 @@
+PODS:
+  - Hero (1.2.0)
+  - NVActivityIndicatorView (4.2.1):
+    - NVActivityIndicatorView/Presenter (= 4.2.1)
+  - NVActivityIndicatorView/Presenter (4.2.1)
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - Hero
+  - NVActivityIndicatorView
+  - SnapKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Hero
+    - NVActivityIndicatorView
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Hero: 33dadf2cd1c98af71e213dcbc2902e6e03622a4e
+  NVActivityIndicatorView: 8068ba3ad39cb44cbaab25d89ff2546b3f092681
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: d6b8db404f13436e4d93ee935ab411ca3de3b310
+
+COCOAPODS: 1.5.3
